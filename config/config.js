@@ -2,7 +2,7 @@ module.exports = config = {
 	"name" : "qdibs",
 
 	"twitter" : {
-		"consumerID" : "test",
-		"consumerSecret": "shitty"
+		"consumerID" : "YOUR_CONSUMER_ID",
+		"consumerSecret": "YOUR_CONSUMER_SECRET"
 	}
 };
